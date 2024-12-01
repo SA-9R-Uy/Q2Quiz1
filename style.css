@@ -1,0 +1,16 @@
+.column {
+  float: left;
+  width: 28%;
+  padding: 20px;
+  height: 400px;
+}
+
+.row: after {
+  content: "";
+  display: inline-flex;
+  clear: both;
+}
+
+img {
+    display: block;
+    margin: auto;
